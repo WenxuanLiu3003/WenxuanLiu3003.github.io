@@ -13,7 +13,7 @@ My research lies in the data-driven decision and stochastic optimization. Specif
 
 Education
 =======
-- Ph.D. in Operations Research, Columbia University, Aug.2021-Present
+- Ph.D. in Operations Research, Columbia University, Aug.2024-Present
 - B.E. in Industrial Engineering, Tsinghua University, Aug.2019-Jun.2024
 
 Research Interests
