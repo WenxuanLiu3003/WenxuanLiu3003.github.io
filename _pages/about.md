@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the [Department of Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/), where I am co-advised by Professor [Adam Elmachtoub](https://www.columbia.edu/~ae2516/) and Professor [Tianyi Lin](https://tydlin.github.io/). Previously, I obtained a B.E. in Industrial Engineering and Minor in Software Engineering in [Tsinghua University](https://www.tsinghua.edu.cn/).
+I am a second-year PhD student in the [Department of Industrial Engineering and Operations Research](https://ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/), where I am co-advised by Professor [Adam Elmachtoub](https://www.columbia.edu/~ae2516/) and Professor [Tianyi Lin](https://tydlin.github.io/). Previously, I obtained a B.E. in Industrial Engineering and Minor in Software Engineering in [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 My research lies in the data-driven decision and stochastic optimization. Specifically, I develop algorithms that adopts machine learning methods and data to realize better decision. I also study extended topics like privacy and fairness concerns in the data-driven optimization and online learning problems. 
 
