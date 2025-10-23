@@ -11,7 +11,7 @@ redirect_from:
 
 * [CV](http://WenxuanLiu3003.github.io/files/CV.pdf)
 
-* Here is another informal version of my CV. [CV of Failure](http://WenxuanLiu3003.github.io/files/CV-fail.pdf)
+<!-- * Here is another informal version of my CV. [CV of Failure](http://WenxuanLiu3003.github.io/files/CV-fail.pdf) -->
 
 <!-- Education
 ======
